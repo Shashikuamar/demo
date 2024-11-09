@@ -4,11 +4,5 @@ kindky share the videos
 pls join our telegram
 class demo
 {
-   Public static void main string args()
-
-   { 
-    
-
-    }
 
 }
